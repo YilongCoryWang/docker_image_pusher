@@ -5,3 +5,4 @@ gcr.io/k8s-minikube/storage-provisioner:v5
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 nats-streaming:0.17.0
+mongo:4.4
